@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Movimiento"
-date: 2022-10-09
+date: 2024-11-14
 thumbnail: thumbnail.png
 dependencies:
   - p5
@@ -12,7 +12,7 @@ dependencies:
   <script type="text/javascript" src="sketch.js"></script>
 </div>
 
-Valentín Moseinco, 2024.
+_Valentín Moseinco_, 2024.
 
 **Movimiento**
 
@@ -22,7 +22,7 @@ Tomando la idea de Aira de “la fórmula «cualquier cosa» como Sésamo Ábret
 
 **Desarrollo técnico, estético y conceptual**
 
-Al sentarme a realizar esta obra, hubo un punto en el que no quise producir ninguna obra. Porque con esa acción iba a estar afirmando algo, iba a estar proclamando esa obra como el producto final y así dejando todas las otras posibilidades afuera. De alguna manera, me da pena tener que finalmente crear un producto final. Esto es así porque este momento en el que yo estoy escribiendo estas palabras es a lo que Aira se refiere como lo “no-hecho”(aira, 2013), un momento en el cual yo me encuentro muy a gusto ya que en la investigación y la creación encuentro un placer enorme. Y son con estas palabras, con la literatura, que Aira cree que se puede generar  “el puente de plata tendido entre lo hecho y lo no hecho”(Aira, 2013), un puente que muy alegremente quiero crear, para que de alguna manera la experiencia artística pueda estar conectada en su totalidad o al menos en la mayor cantidad de eslabones posibles.
+Al sentarme a realizar esta obra, hubo un punto en el que no quise producir ninguna obra. Porque con esa acción iba a estar afirmando algo, iba a estar proclamando esa obra como el producto final y así dejando todas las otras posibilidades afuera. De alguna manera, me da pena tener que finalmente crear un producto final. Esto es así porque este momento en el que yo estoy escribiendo estas palabras es a lo que Aira se refiere como lo “no-hecho”(Aira, 2013), un momento en el cual yo me encuentro muy a gusto ya que en la investigación y la creación encuentro un placer enorme. Y son con estas palabras, con la literatura, que Aira cree que se puede generar  “el puente de plata tendido entre lo hecho y lo no hecho”(Aira, 2013), un puente que muy alegremente quiero crear, para que de alguna manera la experiencia artística pueda estar conectada en su totalidad o al menos en la mayor cantidad de eslabones posibles.
 
 Lo primero que vemos al reproducir la obra es una explosión, una explosión que representa la base visual y conceptual de la obra. Visual porque siempre está reproduciéndose durante su desarrollo y conceptual porque uso la explosión para empezar de cero y permitirme, como menciona Aira, hacer “cualquier cosa”. 
 
@@ -34,6 +34,6 @@ Al usar imágenes y audios de otras creaciones, que a su vez fueron obras hechas
 
 **Bibliografía**
 
-FRICKE, Christiane. (1999). _"Nuevos Medios"_ en AAVV. Arte de siglo XX. Vol. II. München: Taschen.
+- FRICKE, Christiane. (1999). _"Nuevos Medios"_ en AAVV. Arte de siglo XX. Vol. II. München: Taschen.
 
-AIRA, César. ([2013], 2016). “Sobre el arte contemporáneo” en Sobre el arte contemporáneo. Buenos Aires: Literatura Random House, pp. 11-56.
+- AIRA, César. ([2013], 2016). _“Sobre el arte contemporáneo”_ en Sobre el arte contemporáneo. Buenos Aires: Literatura Random House, pp. 11-56.
