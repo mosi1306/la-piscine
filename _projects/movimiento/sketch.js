@@ -12,20 +12,6 @@ let op = 255;
 
 
 function preload(){
-  bebe = loadImage ("bebe.png")
-  
-  audio1 = loadSound("audio1.mp3")
-  audio2 = loadSound("audio2.mp3")
-}
-
-function setup() {
-  //createCanvas(640, 480);
-  let canvas = createCanvas(640, 480);
-  canvas.parent('div-sketch');
-  
-  audio1.loop();
-  
-
   bomba = createVideo("bomba.mp4");
   bomba.hide();
   bomba.loop();
@@ -45,6 +31,19 @@ function setup() {
   rapido = createVideo("rapido.mp4");
   rapido.hide();
   rapido.loop();
+  
+  bebe = loadImage ("bebe.png")
+  
+  audio1 = loadSound("audio1.mp3")
+  audio2 = loadSound("audio2.mp3")
+}
+
+function setup() {
+  //createCanvas(640, 480);
+  let canvas = createCanvas(640, 480);
+  canvas.parent('div-sketch');
+  
+  audio1.loop();
 }
 
 function draw() {  
